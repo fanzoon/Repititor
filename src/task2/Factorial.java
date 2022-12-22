@@ -4,7 +4,7 @@ public class Factorial {
 
     int n;
 
-    public int factorial (int n) {
+    public long factorial (long n) {
 
             if (n == 0) {
                 return 1;

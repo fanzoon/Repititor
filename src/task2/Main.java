@@ -6,7 +6,8 @@ public class Main {
 
         Factorial number = new Factorial();
 
-        System.out.println(number.factorial(5));
+        System.out.println(number.factorial(20));
+
 
 
     }
